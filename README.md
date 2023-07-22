@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frbgus2002&count_bg=%237A61E7&title_bg=%23555555&icon=darkreader.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+💻 BE Engineer   
+👨‍🎓 Soongsil Univ. Computer Science
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbgus2002&hide=Jupyter%20Notebook,HTML,C,CSS,PureBasic,JavaScript,Swift&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/rbgus2002/github-readme-stats)   ![guegue's github stats](https://github-readme-stats.vercel.app/api?username=rbgus2002&show_icons=true&theme=vue&count_private=true)
+
 
 <!--
 **rbgus2002/rbgus2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
