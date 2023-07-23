@@ -1,22 +1,8 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frbgus2002&count_bg=%237A61E7&title_bg=%23555555&icon=darkreader.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 💻 BE Engineer   
 👨‍🎓 Soongsil Univ. Computer Science
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbgus2002&hide=Jupyter%20Notebook,HTML,C,CSS,PureBasic,JavaScript,Swift&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/rbgus2002/github-readme-stats)   ![guegue's github stats](https://github-readme-stats.vercel.app/api?username=rbgus2002&show_icons=true&theme=vue&count_private=true)
-
-
-<!--
-**rbgus2002/rbgus2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frbgus2002&count_bg=%238741DB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+  <a href="mailto:rbgus2002@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rbgus2002@naver.com"/></a>
+  <a href="https://www.instagram.com/d_mansp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/d_mansp/"/></a>
+</p>
